@@ -48,11 +48,11 @@ const Home = ({ classes }) => (
       </Link>
       <Link to="/quantum/32">
         <DesktopIcon />
-        Quantum 32bit
+        Windows 32bit
       </Link>
       <Link to="/quantum/64">
         <DesktopIcon />
-        Quantum 64bit
+        Windows 64bit
       </Link>
       <Link to="/power">
         <BatteryIcon />
